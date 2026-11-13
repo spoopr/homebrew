@@ -16,6 +16,7 @@
 
             imports = [
                 ./templates
+                ./modules
             ];
         };
 }
